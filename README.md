@@ -16,3 +16,16 @@ INTRODUCTION :
 * To map flood susceptibility, an assembled machine learning technique based on random forest (RF), random subspace (RS) and support vector machine (SVM) was used. As the population is growing rapidly, people need to acquire land to live on, and as a result the ecosystem is disturbed horrifically, which causes global warming and increases the number of natural disasters.
 * Populations in underdeveloped countries cannot afford damages disasters cause to infrastructures. The aftermath of disasters leaves the humans in miserable situations, and sometimes the devastating effects cannot be detected; additionally, rescue operations cannot take place in most of the places and victims are unable to be identified due to geographical factors of the different areas.
 * Disasters such as forest fires spread rapidly in dense areas, so firefighting is difficult to carry out; in this case, development of the strategy to predict such circumstances is crucial so that such disasters can be prevented beforehand.
+
+ Project Objectives:
+    ° Know fundamental concepts and techniques of the Artificial Neural Network and Convolution Neural Networks. 
+   
+    ° Gain a broad understanding of image data.
+    
+    ° Work with Sequential type of modeling.
+    
+    ° Work with Keras capabilities.
+    
+    ° Work with image processing techniques.
+    
+    ° Work with OpenCV.
