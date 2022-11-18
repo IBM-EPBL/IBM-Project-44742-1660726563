@@ -10,7 +10,7 @@ Disaster can be caused by naturally occurring events such as earthquakes, cyclon
 To tackle this problem, we developed a multilayered deep convolutional neural network model that classifies the natural disaster and tells the intensity of disaster of natural The model uses an integrated webcam to capture the video frame and the video frame is compared with the Pre-trained model and the type of disaster is identified and showcased on the OpenCV window.
 
 
-Introduction :
+INTRODUCTION :
 * Natural disasters are inevitable, and the occurrence of disasters drastically affects the economy, ecosystem and human life. Buildings collapse, ailments spread and sometimes natural disasters such as tsunamis, earthquakes, and forest fires can devastate nations. When earthquakes occur, millions of buildings collapse due to seismological effects.
 * Many machine learning approaches have been used for wildfire predictions since the 1990s. A recent study used a machine learning approach in Italy. Floods are the most devastating natural disaster, damaging properties, human lives and infrastructures.
 * To map flood susceptibility, an assembled machine learning technique based on random forest (RF), random subspace (RS) and support vector machine (SVM) was used. As the population is growing rapidly, people need to acquire land to live on, and as a result the ecosystem is disturbed horrifically, which causes global warming and increases the number of natural disasters.
