@@ -18,6 +18,7 @@ INTRODUCTION :
 * Disasters such as forest fires spread rapidly in dense areas, so firefighting is difficult to carry out; in this case, development of the strategy to predict such circumstances is crucial so that such disasters can be prevented beforehand.
 
  Project Objectives:
+
     ° Know fundamental concepts and techniques of the Artificial Neural Network and Convolution Neural Networks. 
    
     ° Gain a broad understanding of image data.
