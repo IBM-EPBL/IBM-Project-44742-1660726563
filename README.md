@@ -32,6 +32,7 @@ INTRODUCTION :
     ° Work with OpenCV.
 
 Project Flow :
+
 The user interacts with the UI (User Interface) to open the integrated webcam.
 
 The video frames are captured and analyzed by the model which is integrated with flask application.
@@ -44,6 +45,7 @@ To accomplish the above task you must complete the below activities and tasks;
 1.Data Collection.
 
 -Collect the dataset or Create the dataset
+
 2.Data Preprocessing.
 
 -Import the ImageDataGenerator library
@@ -51,15 +53,21 @@ To accomplish the above task you must complete the below activities and tasks;
 -Configure ImageDataGenerator class
 
 -ApplyImageDataGenerator functionality to Trainset and Testset
+
 3.Model Building
 
 -Import the model building Libraries
 
  Prerequisites :
+
 Anaconda Navigator :
+
 Anaconda Navigator is a free and open-source distribution of the Python and R programming languages for data science and machine learning-related applications. It can be installed on Windows, Linux, and macOS. Conda is an open-source, cross-platform, package management system. Anaconda comes with so very nice tools like JupyterLab, Jupyter Notebook,QtConsole, Spyder, Glueviz, Orange, Rstudio, Visual Studio Code. For this project, we will be using Jupiter notebook and spyder.To install Anaconda navigator and to know how to use Jupyter Notebook a Spyder using Anaconda watch the video given here. [https://youtu.be/5mDYijMfSzs]
 To build Deep learning models you must require the following packages :
-Tensor flow: TensorFlow is an end-to-end open-source platform for machine learning. It has a comprehensive, flexible ecosystem of tools, libraries, and community resources that lets researchers push the state-of-the-art in ML and developers can easily build and deploy ML powered applications.
+
+Tensor flow: 
+
+TensorFlow is an end-to-end open-source platform for machine learning. It has a comprehensive, flexible ecosystem of tools, libraries, and community resources that lets researchers push the state-of-the-art in ML and developers can easily build and deploy ML powered applications.
 
 Keras : Keras leverages various optimization techniques to make high level neural network API easier and more performant. It supports the following features.
 
