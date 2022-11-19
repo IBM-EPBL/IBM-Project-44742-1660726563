@@ -58,11 +58,13 @@ To accomplish the above task you must complete the below activities and tasks;
 
 -Import the model building Libraries
 
- Prerequisites :
+PREREQUISITES :
 
 Anaconda Navigator :
 
-Anaconda Navigator is a free and open-source distribution of the Python and R programming languages for data science and machine learning-related applications. It can be installed on Windows, Linux, and macOS. Conda is an open-source, cross-platform, package management system. Anaconda comes with so very nice tools like JupyterLab, Jupyter Notebook,QtConsole, Spyder, Glueviz, Orange, Rstudio, Visual Studio Code. For this project, we will be using Jupiter notebook and spyder.To install Anaconda navigator and to know how to use Jupyter Notebook a Spyder using Anaconda watch the video given here. [https://youtu.be/5mDYijMfSzs]
+Anaconda Navigator is a free and open-source distribution of the Python and R programming languages for data science and machine learning-related applications. It can be installed on Windows, Linux, and macOS. Conda is an open-source, cross-platform, package management system. Anaconda comes with so very nice tools like JupyterLab, Jupyter Notebook,QtConsole, Spyder, Glueviz, Orange, Rstudio, Visual Studio Code. For this project, we will be using Jupiter notebook and spyder.To install Anaconda navigator and to know how to use Jupyter Notebook a Spyder using Anaconda watch the video given here. 
+[https://youtu.be/5mDYijMfSzs]
+
 To build Deep learning models you must require the following packages :
 
 Tensor flow: 
@@ -80,4 +82,3 @@ Keras : Keras leverages various optimization techniques to make high level neura
 4. It is user-friendly framework that runs on both CPU and GPU.
 
 5. Highly scalability of computation.
-Flask: Web framework used for building Web applications.Watch the given below video to Install the necessary Packages.
